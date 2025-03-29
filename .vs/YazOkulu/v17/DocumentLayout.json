@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mert\\source\\repos\\YazOkulu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8D33E-72B1-4155-9668-1AF5C05217A2}|YazOkulu\\YazOkulu.csproj|C:\\Users\\mert\\source\\repos\\YazOkulu\\yazokulu\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37A8D33E-72B1-4155-9668-1AF5C05217A2}|YazOkulu\\YazOkulu.csproj|solutionrelative:yazokulu\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3D3DA0-9D22-440B-8712-744C51DF0CB9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mert\\source\\repos\\yazokulu\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3D3DA0-9D22-440B-8712-744C51DF0CB9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8D33E-72B1-4155-9668-1AF5C05217A2}|YazOkulu\\YazOkulu.csproj|c:\\users\\mert\\source\\repos\\yazokulu\\yazokulu\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{37A8D33E-72B1-4155-9668-1AF5C05217A2}|YazOkulu\\YazOkulu.csproj|solutionrelative:yazokulu\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3D3DA0-9D22-440B-8712-744C51DF0CB9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mert\\source\\repos\\yazokulu\\dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3D3DA0-9D22-440B-8712-744C51DF0CB9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\YazOkulu\\DataAccessLayer\\Baglanti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\YazOkulu\\DataAccessLayer\\Baglanti.cs",
+              "RelativeToolTip": "DataAccessLayer\\Baglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:29:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALDers.cs",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\YazOkulu\\DataAccessLayer\\DALDers.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALDers.cs",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\YazOkulu\\DataAccessLayer\\DALDers.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALDers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:27:48.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\YazOkulu\\YazOkulu\\Site1.Master",
+              "RelativeDocumentMoniker": "YazOkulu\\Site1.Master",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\YazOkulu\\YazOkulu\\Site1.Master",
+              "RelativeToolTip": "YazOkulu\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T13:21:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\mert\\source\\repos\\YazOkulu\\YazOkulu\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "YazOkulu\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\mert\\source\\repos\\YazOkulu\\YazOkulu\\WebForm1.aspx",
+              "RelativeToolTip": "YazOkulu\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T13:20:48.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
